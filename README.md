@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Al Moid Fahad</h1>
 <h3 align="center"> Software Engineer From Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://cdn2.laihua.com/doratoon-dist/static/img/break-down-complex-issues.52a3de7.gif">
+<img align="right" alt="coding" width="400" style="radius: 5px" src="https://cdn2.laihua.com/doratoon-dist/static/img/break-down-complex-issues.52a3de7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almoidfahad&label=Profile%20views&color=0e75b6&style=flat" alt="almoidfahad" /> </p>
 
